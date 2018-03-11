@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE equipmentinfo
+[
+<!ELEMENT equipmentinfo (EquipmentName,Type,ModelName,Serialnumber,Description,availabity,Condition,Contactinfo,Name,Address,Phone,email)>
+<!ELEMENT EquipmentName (#PCDATA)>
+<!ELEMENT Type (#PCDATA)>
+<!ELEMENT ModelName (#PCDATA)>
+<!ELEMENT Serialnumber (#PCDATA)>
+<!ELEMENT Description (#PCDATA)>
+<!ELEMENT Availability (#PCDATA)>
+<!ELEMENT Condition (#PCDATA)>
+<!ELEMENT Contactinfo (#PCDATA)>
+<!ELEMENT Name (#PCDATA)>
+<!ELEMENT Address (#PCDATA)>
+<!ELEMENT Phone (#PCDATA)>
+<!ELEMENT email (#PCDATA)>
+]>

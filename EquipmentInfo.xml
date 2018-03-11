@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<equipmentinfo>
+<EquipmentName>Projector</EquipmentName>
+<Type>physical connectors</Type>
+<ModelName>RA5123</ModelName>
+<Serialnumber>449</Serialnumber>
+<Description>Vishnu product</Description>
+<Availability>5</Availability>
+<Condition>Good</Condition>
+<Contactinfo>
+          <Name>Jyothi</Name>
+          <Address>Vishnupur</Address>
+          <Phone>108</Phone>
+          <email>15pa1a0587@vishnu.edu.in</email>
+</Contactinfo>
+</equipmentinfo>
